@@ -1,0 +1,1 @@
+This is a synthetic transcript. A divide and conquer algorithm splits the input, solves smaller inputs, and combines the results.

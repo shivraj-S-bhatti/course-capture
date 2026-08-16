@@ -1,0 +1,13 @@
+{
+  "title": "Lecture 1: Divide and Conquer",
+  "summary": "A synthetic example that covers recurrence trees and merge sort.",
+  "chapters": [
+    {"start": "00:00", "title": "Course map"},
+    {"start": "03:20", "title": "Split, solve, combine"},
+    {"start": "12:40", "title": "Merge sort recurrence"}
+  ],
+  "notes": [
+    "exam: state the recurrence before solving it",
+    "deeper-later: compare substitution and recursion trees"
+  ]
+}
